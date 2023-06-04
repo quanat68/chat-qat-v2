@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/chat-qat-v2/static/css/main.22737818.css",
+    "main.js": "/chat-qat-v2/static/js/main.b9c5fecf.js",
+    "static/media/valley.jpeg": "/chat-qat-v2/static/media/valley.2c68f3ec8bc868abb018.jpeg",
+    "static/media/VisbyRoundCF-Heavy.woff": "/chat-qat-v2/static/media/VisbyRoundCF-Heavy.5b14967687bb1ecf4295.woff",
+    "static/media/VisbyRoundCF-Regular.woff": "/chat-qat-v2/static/media/VisbyRoundCF-Regular.78ce79eac18796023f1b.woff",
+    "static/media/VisbyRoundCF-DemiBold.woff": "/chat-qat-v2/static/media/VisbyRoundCF-DemiBold.ecce87927ba286ccd634.woff",
+    "index.html": "/chat-qat-v2/index.html",
+    "main.22737818.css.map": "/chat-qat-v2/static/css/main.22737818.css.map",
+    "main.b9c5fecf.js.map": "/chat-qat-v2/static/js/main.b9c5fecf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22737818.css",
+    "static/js/main.b9c5fecf.js"
+  ]
+}
